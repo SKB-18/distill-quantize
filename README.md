@@ -1,8 +1,13 @@
 # Distill-Quantize: Model Compression & Efficiency Lab ⚡
 
+[![CI](https://github.com/SKB-18/distill-quantize/actions/workflows/ci.yml/badge.svg)](https://github.com/SKB-18/distill-quantize/actions)
+[![Tests: 43 Passed](https://img.shields.io/badge/tests-43%2F43%20passed-brightgreen.svg)](#)
+[![Python: 3.11](https://img.shields.io/badge/python-3.11-blue.svg)](#)
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg)](#)
+
 A high-performance, production-grade PyTorch framework for **Knowledge Distillation (KD)** and **Post-Training Quantization (PTQ)**. Supports tensor-level INT8/INT4 uniform quantization, block-wise grouped scales, optimal MSE outlier calibration, sequence-level token distillation, and intermediate feature projection.
 
-**Zero Toy Simulations** • **Real PyTorch Tensors** • **34/34 Automated Tests Passing** • **44+ dB SQNR & 3.8x Linear Compression**
+**Zero Toy Simulations** • **Real PyTorch Tensors** • **43/43 Automated Tests Passing** • **44+ dB SQNR & 3.8x Linear Compression**
 
 ---
 
